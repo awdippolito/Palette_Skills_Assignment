@@ -1,6 +1,6 @@
 # Palette Skills Assignment Repository
 
-The assignment notebook ('Stream_3_Assignment.ipynb) can be found inside directory 'Assignment_Notebook'. Assignment summary below:
+The assignment notebook ('Stream_3_Assignment.ipynb') can be found inside directory 'Assignment_Notebook'. Assignment summary below:
 
 # Tasks
 1. Create a geographic data visualization that shows the average wheat production by country for the years 2020 to 2022 (30% of assignment grade)
