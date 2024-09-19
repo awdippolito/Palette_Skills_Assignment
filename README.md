@@ -31,4 +31,4 @@ C) World Countries Generalized (general boundaries for countries of the world) h
 
 - Create your own repository on github with your completed assignment and DM me the link
 
-- Assignment is due by end of day on October 11, 2024
+- Assignment is due by end of day on October 7, 2024
